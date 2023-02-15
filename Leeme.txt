@@ -1,0 +1,7 @@
+Se usaron arrays y uno de sus metodos en la linea 20 del archivo de usodeLibrerias.js
+Se uso objetos en la linea 6 de uso de librerias y en usodeFetch.js
+Se uso generacion de del DOM y eventos en el archivo app.js
+Se uso sintaxis avanzada en la funcon promesaDeProductos() de usodeFETCH.js
+Se uso librerias en el archivo usodeLibreria.js
+Se uso manejo de promesas con Fetch en el archvo usodeFETCH.js
+Se cargaron datos desde un JSON local en el archivo usodeFETCH.js

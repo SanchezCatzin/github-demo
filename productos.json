@@ -1,0 +1,8 @@
+[
+    {"nombre": "ZAPATOS CASUALES","precio": "25","img":"imagenes/Imagen1.jpg"},
+    {"nombre": "ZAPATOS JUVENILES","precio": "36","img":"imagenes/imagen2.jpg"},
+    {"nombre": "ZAPATILLAS SARA","precio": "49","img":"imagenes/imagen3.jpg"},
+    {"nombre": "TACONES CUADRADOS","precio": "28","img":"imagenes/imagen4.jpg"},
+    {"nombre": "TACONES ALTOS","precio": "72","img":"imagenes/imagen5.jpg"},
+    {"nombre": "TACON BAJO","precio": "35","img":"imagenes/imagen6.jpg"}
+]
