@@ -21,7 +21,11 @@ function tomarItemsDeCarritoDeCompra(){
     
     let texto = ""
     for (i = 0; i < arregloParaAlert.length ; i++){
-        texto = texto + `<br> ${arregloParaAlert[i].cantidad} pares de ${arregloParaAlert[i].nombre} con un costo de ${arregloParaAlert[i].costo};`;
+        if (arregloParaAlert[i].cantidad == 1){
+            texto = texto + `<br> ${arregloParaAlert[i].cantidad} par de ${arregloParaAlert[i].nombre} con un costo de ${arregloParaAlert[i].costo};`;
+        } else { 
+            texto = texto + `<br> ${arregloParaAlert[i].cantidad} pares de ${arregloParaAlert[i].nombre} con un costo de ${arregloParaAlert[i].costo};`;
+        }
     }
     
 
