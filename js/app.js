@@ -1,8 +1,4 @@
 
-/* function abrirCarrito(){
-    cart.classList.add('active')
-} */
-
 //abrir el carrito
 carritoIcon.onclick = () => {
     cart.classList.add('active');
