@@ -1,2 +1,2 @@
 # Proyecto JavaScrtip Luis Sanchez
-**Este es un trabajo que realice**
+**Trabajo enfocado en simular una app de carrito de compras para una clase de JavaScript**
